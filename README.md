@@ -51,12 +51,11 @@
 
 <br/>
 
-<!--
 <details open> 
     <summary><h2>📂 𝙼𝚢 𝚃𝚘𝚙 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜</h2></summary>
     <p align="left">
-        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-            <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
+        <a href="https://github.com/nfedotenko/steroidslog">
+            <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nfedotenko&repo=steroidslog&theme=midnight-purple&hide_border=true&show_icons=true" alt="steroidslog">
         </a>
     </p>
     <a href="https://github.com/nfedotenko?tab=repositories&sort=stargazers">
@@ -64,6 +63,7 @@
     </a>
 </details>
 
+<!--
 <details open> 
     <summary><h2>📥 𝙼𝚢 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜</h2></summary>
     <p align="left">
