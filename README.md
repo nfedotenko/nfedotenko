@@ -7,7 +7,7 @@ Daytime it's game engines and infrastructure; evenings drift toward compilers,
 distributed filesystems and trading systems — mostly as upstream patches:
 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3Anfedotenko) — clang frontend, C++26 odds and ends
-- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs/pulls?q=is%3Apr+author%3Anfedotenko) — hardening the kernel module of an exabyte-scale filesystem
+- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs/pulls?q=is%3Apr+author%3Anfedotenko) — hardening an exabyte-scale filesystem: a kmod patch and three [security findings](https://github.com/XTXMarkets/ternfs/issues?q=is%3Aissue+author%3Anfedotenko), a kernel OOB write among them
 - [lrvx/lrvx](https://github.com/lrvx/lrvx/pulls?q=is%3Apr+author%3Anfedotenko) — batching, order tracking and market-data plumbing
 
 My own experiments live in the pins below.
